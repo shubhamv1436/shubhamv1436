@@ -35,7 +35,7 @@
 #### Databases:
 <img align="left" alt="MongoDB" height="70px" width="40px" src="https://user-images.githubusercontent.com/19463512/104096221-2ce06000-52c1-11eb-9cc2-507f432ce287.png"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 #### Operating Systems:
 <img align="left" alt="MacOS" height="40px" width="40px" src="https://user-images.githubusercontent.com/19463512/104099938-fb689400-52c2-11eb-981c-e1e3a3c8bcfb.png"/>
@@ -71,6 +71,8 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+---
 
 <details>
   <summary>GitHub Stats</summary>
