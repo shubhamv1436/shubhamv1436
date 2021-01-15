@@ -52,8 +52,8 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/shubhamv1436/shubhamv1436/issues/1) in [shubhamv1436/shubhamv1436](https://github.com/shubhamv1436/shubhamv1436)
-2. 🎉 Merged PR [#1](https://github.com/shubhamv1436/img-bot-test/pull/1) in [shubhamv1436/img-bot-test](https://github.com/shubhamv1436/img-bot-test)
+1. ❗️ Closed issue [#1](https://github.com/shubhamv1436/shubhamv1436/issues/1) in [shubhamv1436/shubhamv1436](https://github.com/shubhamv1436/shubhamv1436)
+2. ❗️ Opened issue [#1](https://github.com/shubhamv1436/shubhamv1436/issues/1) in [shubhamv1436/shubhamv1436](https://github.com/shubhamv1436/shubhamv1436)
 <!--END_SECTION:activity-->
 
 </details>
